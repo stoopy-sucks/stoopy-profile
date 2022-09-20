@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stoopy</h1>
-<h3 align="center">A hardworking developer</h3>
+<h3 align="center"> Welcome to my Github page!</h3>
 
 - 🔭 I’m currently working on **Sncrypt** ( Encryption Software )
 - 📫 How to reach me **stoopyalt@gmail.com** ( Note I do not check this much )
