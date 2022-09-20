@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **Sncrypt** ( Encryption Software )
 - 📫 How to reach me **stoopyalt@gmail.com** ( Note I do not check this much )
+- Backend Developer 
+- Discord: Stoopy#8558
 
 # Projects
 - Stoopy.GG ( Website it is not open yet ) 
