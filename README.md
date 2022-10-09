@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Stoopy</h1>
+<h1 align="center">Hi 👋, I'm Snoopy</h1>
 <h3 align="center"> Welcome to my Github page!</h3>
 
-- 🔭 I’m currently working on **Sncrypt** ( Encryption Software )
+- 🔭 I’m currently working on **Garry's Mod Lua Addons** 
 - 📫 How to reach me **stoopyalt@gmail.com** ( Note I do not check this much )
 - Backend Developer 
-- Discord: Stoopy#8558
+- Discord: Snoop#8558
 
 # Projects
 - Stoopy.GG ( Website it is not open yet ) 
