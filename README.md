@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Snoopy</h1>
-<h3 align="center"> Welcome to my Github page!</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hello+World!)](https://git.io/typing-svg)
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C8F7&width=235&lines=Snoopy+Here!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C8F7&width=235&lines=This+is+my+GitHub.)](https://git.io/typing-svg)
 - 🔭 I’m currently working on **Garry's Mod Lua Addons** 
 - 📫 How to reach me **stoopyalt@gmail.com** ( Note I do not check this much )
 - Backend Developer 
